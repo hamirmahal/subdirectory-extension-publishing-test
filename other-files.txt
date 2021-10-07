@@ -1,0 +1,3 @@
+This is to test publishing of an extension from within a larger repository's subdirectory.
+
+See the extension published from a subdirectory in this repository at https://marketplace.visualstudio.com/items?itemName=TestPublisher2021.extension-publish-test.
